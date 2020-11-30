@@ -1,0 +1,9 @@
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\bin\Debug\Finger Print.exe.config
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\bin\Debug\Finger Print.exe
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\bin\Debug\Finger Print.pdb
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\obj\Debug\Finger Print.csprojResolveAssemblyReference.cache
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\obj\Debug\Finger_Print.Form1.resources
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\obj\Debug\Finger_Print.Properties.Resources.resources
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\obj\Debug\Finger Print.csproj.GenerateResource.Cache
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\obj\Debug\Finger Print.exe
+c:\users\aqib\documents\visual studio 2015\Projects\Finger Print\Finger Print\obj\Debug\Finger Print.pdb
